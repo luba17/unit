@@ -23,6 +23,7 @@
   "homepage": "https://github.com/luba17/unit#readme",
   "devDependencies": {
     "-": "^0.0.1",
+    "babel-plugin-istanbul": "^6.1.1",
     "jest": "^29.6.1"
   }
 }
